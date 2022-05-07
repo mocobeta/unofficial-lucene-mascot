@@ -4,22 +4,23 @@ A fanarts collection of [Duke](https://wiki.openjdk.java.net/display/duke/Main) 
 
 **Surfer Duke x Lucene**
 
-![Surfer Duke](./lucene_duke_surf.png)
+<img src="./lucene_duke_surf.png" width=250 />
 
-**Policeman Duke** (@uschindler)
+**Policeman Duke** ([@uschindler](https://github.com/uschindler))
 
-![Policeman Duke](./policeman_duke.png)
+<img src="./policeman_duke.png" width=250/>
 
 **Jenkins Policeman Duke**
 
 see also: https://jenkins.thetaphi.de/
 
-![Jenkins Policeman Duke](./policeman_duke_jenkins.png)
+<img src="./policeman_duke_jenkins.png" width=250/>
 
 (Gray background)
 
-![Jenkins Policeman Duke (gray background)](./policeman_duke_jenkins_gray.png)
+<img src="./policeman_duke_jenkins_gray.png" width=250/>
+
 
 **Unicode Policeman Duke**
 
-![Unicode Policeman Duke](./policeman_duke_unicode.png)
+<img src="./policeman_duke_unicode.png" width=250/>
