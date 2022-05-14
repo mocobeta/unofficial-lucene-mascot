@@ -30,3 +30,9 @@ see also: https://jenkins.thetaphi.de/
 see also: https://github.com/mikemccand/luceneutil
 
 <img src="./luceneutil_duke.png" width=300/>
+
+**Randomizedtesting Duke**
+
+see also: https://github.com/randomizedtesting/randomizedtesting
+
+<img src="./randomizedtesting_duke.png" width=300/>
