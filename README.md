@@ -24,3 +24,9 @@ see also: https://jenkins.thetaphi.de/
 **Unicode Policeman Duke**
 
 <img src="./policeman_duke_unicode.png" width=300/>
+
+**Benchmarking Duke**
+
+see also: https://github.com/mikemccand/luceneutil
+
+<img src="./luceneutil_duke.png" width=300/>
