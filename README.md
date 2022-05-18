@@ -36,3 +36,7 @@ see also: https://github.com/mikemccand/luceneutil
 see also: https://github.com/randomizedtesting/randomizedtesting
 
 <img src="./randomizedtesting_duke.png" width=300/>
+
+**Build Duke**
+
+<img src="./build_duke.png" width=300/>
